@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Platform
+  - Enemy
+  - Trap
+  - Destruction
+  - Hold
+  - PlayerBullet
+  - Box
+  - PlayerDamaged
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Box
+  - Enemy
+  - Wall
+  - Push
+  - Bullet
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Back
+    uniqueID: 1744392819
+    locked: 0
+  - name: Middle
+    uniqueID: 95649603
+    locked: 0
+  - name: Fore
+    uniqueID: 3794246369
+    locked: 0
+  - name: Entity
+    uniqueID: 2509998351
+    locked: 0
